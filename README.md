@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @vishalshinde25<br><br>👯 Recently, I have completed PG-DAC from CDAC INDIA<br><br>💬 Ask me about Full Stack Web Development, Core Java, C#<br><br>📫 How to reach me: vishalshinde25.vs@gmail.com
+👋 Hi, I’m @vishalshinde25<br><br>👯 Recently, I have completed PG-DAC from CDAC INDIA<br><br>💬 Ask me about Core Java, Spring Boot, MySQL, Web Development<br><br>📫 How to reach me: vishalshinde25.vs@gmail.com
 
 
 ## 🌐 Socials:
